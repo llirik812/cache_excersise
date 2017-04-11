@@ -1,6 +1,7 @@
 <?php
-header('Cache-Control: s-maxage=0');
+header('Cache-Control: s-maxage=0,max-age=8');
 header('Content-Type: application/json; charset=utf-8');
+header('Age: 4');
 
 $string = "**11dddd11111eeee111121---";
 
