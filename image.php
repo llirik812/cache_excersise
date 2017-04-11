@@ -1,5 +1,5 @@
 <?php
-header('Cache-Control: public, max-age=10');
+header('Cache-Control: s-maxage=0');
 //header('Expires: max-age=9999');
 
 header( "Content-type: image/png" );

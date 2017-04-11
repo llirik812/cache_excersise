@@ -22,6 +22,6 @@
 <a href="/secondpage.html">Link to the second page</a>	<br/>
   <img src="/image.php">
 <div id="data">
-</div>
- </body> 
+</div>       
+</body> 
 </html>
